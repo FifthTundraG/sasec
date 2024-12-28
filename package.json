@@ -1,0 +1,22 @@
+{
+  "name": "sasec",
+  "version": "0.0.1-alpha.1",
+  "description": "Simple Ase Compiler (sasec)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FifthTundraG/sasec.git"
+  },
+  "author": "FifthTundraG",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/FifthTundraG/sasec/issues"
+  },
+  "homepage": "https://github.com/FifthTundraG/sasec#readme",
+  "bin": {
+    "sasec": "./bin/sasec"
+  }
+}
